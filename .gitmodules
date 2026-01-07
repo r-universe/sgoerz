@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "SChangeBlock"]
+	path = SChangeBlock
+	url = https://github.com/sgoerz/schangeblock
 [submodule "robcp"]
 	path = robcp
 	url = https://github.com/sgoerz/robcp
